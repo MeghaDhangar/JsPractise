@@ -2,8 +2,7 @@
 function FetchApi() {
   return (
     <div>
-      <h1>Hiiiiiiiiiiiiiiiiiiii</h1>
-      
+      <h1>Megha Dhangar</h1>
     </div>
   )
 }

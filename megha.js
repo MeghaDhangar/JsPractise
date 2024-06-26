@@ -116,9 +116,16 @@
 // console.log(`sum of number is ${sum}`)
 
 
-const arr= [ 12,2,4,7,8,12,2,4];
- const removeDuplicate = (arr)=>{
-  return arr.filter ((value,index)=> arr.indexOf (value)==index);
- }
- const uniqueNum = removeDuplicate(arr);
- console.log(uniqueNum);
+// const arr= [ 12,2,4,7,8,12,2,4];
+//  const removeDuplicate = (arr)=>{
+//   return arr.filter ((value,index)=> arr.indexOf (value)==index);
+//  }
+//  const uniqueNum = removeDuplicate(arr);
+//  console.log(uniqueNum);
+
+
+const arr = [12,34,7,8,9,1];
+let min= arr[0];
+for(let i =0; i<arr.length-1; i--){
+ 
+}
